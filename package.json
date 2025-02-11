@@ -1,0 +1,30 @@
+{
+  "name": "paitpuja25",
+  "version": "1.0.0",
+  "description": "pait puja react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshivam025/paitpuja.git"
+  },
+  "keywords": [
+    "pait",
+    "puja"
+  ],
+  "author": "Shivam Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bshivam025/paitpuja/issues"
+  },
+  "homepage": "https://github.com/bshivam025/paitpuja#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
